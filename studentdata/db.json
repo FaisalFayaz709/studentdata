@@ -1,0 +1,16 @@
+{
+  "students": [
+    {
+      "id": "4",
+      "name": "Usama",
+      "place": "Dajal",
+      "phone": "98097877687"
+    },
+    {
+      "id": "5",
+      "name": "Akarma Fayaz",
+      "place": "Dajal",
+      "phone": "98097877687"
+    }
+  ]
+}
